@@ -26,7 +26,7 @@ Market penetration requires strong implementation and execution of strategies ar
 
 When thinking about creating a market penetration strategy and increasing market share, it is important to consider the different ways to grow the company using existing offerings to make it more appealing to the customers who exist in the target market.
 
-####Common market penetration strategies;
+#### Common market penetration strategies;
 
 
 ### Market penetration pricing
